@@ -1,8 +1,7 @@
-# ProgressiveBudget18
-
 # Project Title: Progressive Budget Application
 
-## Description: The Progressive Budget Application is a Budget Tracker that allows users to add expenses and deposits to their budget with or without a connection. 
+## Description: 
+* The Progressive Budget Application is a Budget Tracker that allows users to add expenses and deposits to their budget with or without a connection. 
 
 
  ## Usage: The application will be invoked by using the following:
