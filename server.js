@@ -32,7 +32,7 @@ app.use(express.static("public"));
 
 // connect to db
 mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://localhost/budget",
+  process.env.MONGO_URI || "mongodb://localhost/budget",
   {
       useNewUrlParser: true,
       useUnifiedTopology: true,
