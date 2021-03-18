@@ -4,7 +4,7 @@
 * The Progressive Budget Application is a Budget Tracker that allows users to add expenses and deposits to their budget with or without a connection. 
 
 
- ## Usage: The application will be invoked by using the following:
+ ## Usage: The application will be invoked by using the following
 
  * Node server.js via integrated terminal
  * Open browser and go to localhost:3000
@@ -14,7 +14,7 @@
  ## Contributing:
  * Contributions made by Jordan Mossing using various technolgies.
 
- ### Technologies and Features Used: 
+ ## Technologies and Features Used: 
  * MongoDB
  * Express
  * JavaScript
@@ -25,7 +25,7 @@
 
 ## Screenshot:
 
-# ![Image](./public/assets/images/Capture.PNG)
+# ![Image](./public/assets/images/ScreenPrint.PNG)
 
 
 ## Questions:
